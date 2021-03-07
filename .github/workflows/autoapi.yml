@@ -2,7 +2,7 @@ name: Auto Api Secret
 
 on: 
   schedule:
-    - cron: '20 */11 * * *'
+    - cron: '25 3 * * *'
   watch:
     types: [started]
 
